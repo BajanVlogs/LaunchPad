@@ -9,7 +9,7 @@
 
 ## Installation
 
-1. Download the `LaunchPadPlugin.php` file.
+1. Download the LaunchPad Plugin
 2. Place the file in the `plugins` folder of your PocketMine-MP server.
 3. Restart your server.
 
